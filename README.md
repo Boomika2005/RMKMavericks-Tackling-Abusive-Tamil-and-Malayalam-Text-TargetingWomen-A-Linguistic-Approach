@@ -11,9 +11,9 @@ This study addresses the challenge of detecting abusive language targeting women
 
 Dataset:
 
-Tamil: An external dataset was used to enhance training.
-Malayalam: The provided dataset was used without additional external data.
-Data Processing: Tokenization, stopword removal, and TF-IDF vectorization were applied to structure the data.
+* Tamil: An external dataset was used to enhance training.
+* Malayalam: The provided dataset was used without additional external data.
+* Data Processing: Tokenization, stopword removal, and TF-IDF vectorization were applied to structure the data.
 
 Methodology:
 
