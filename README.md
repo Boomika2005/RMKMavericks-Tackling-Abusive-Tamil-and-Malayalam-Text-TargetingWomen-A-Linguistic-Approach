@@ -1,5 +1,5 @@
 RMKMavericks@DravidianLangTech 2025
-Title: Tackling Abusive Tamil and Malayalam Text Targeting Women: A Linguistic Approach
+Title: Tackling Abusive Tamil and Malayalam Text Targeting Women: A Linguistic Approach.
 Authors: Sandra Johnson, Boomika E, Lahari P
 Affiliation: R.M.K. Engineering College, Tiruvallur
 
