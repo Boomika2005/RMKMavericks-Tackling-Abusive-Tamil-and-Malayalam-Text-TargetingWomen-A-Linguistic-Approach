@@ -17,6 +17,6 @@ Dataset:
 
 Methodology:
 
-Tamil: Support Vector Machine (SVM) with TF-IDF feature extraction.
-Malayalam: Multinomial Naive Bayes (MNB) with TF-IDF feature extraction.
-Evaluation Metrics: Accuracy, Precision, Recall, F1-score, and AUC-ROC curve.
+* Tamil: Support Vector Machine (SVM) with TF-IDF feature extraction.
+* Malayalam: Multinomial Naive Bayes (MNB) with TF-IDF feature extraction.
+* Evaluation Metrics: Accuracy, Precision, Recall, F1-score, and AUC-ROC curve.
